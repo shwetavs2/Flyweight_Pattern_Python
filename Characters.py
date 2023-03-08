@@ -1,4 +1,3 @@
-### Name : Shweta Vilas Shete , Red id: 825897742  ###
 
 class Characters:
     """ This class  store  the unicode code point of the character"""
